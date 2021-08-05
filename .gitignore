@@ -8,7 +8,6 @@ THIRD.model
 FIFTH.model
 my_model5.hdf5
 .ipynb_checkpoints
-images
 .DS_Store
 .ipynb_checkpoints
 my_model_small.h5
